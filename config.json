@@ -95,8 +95,8 @@
 			"buy": 80,
 			"harvest": {
 				"extra_chance": 0.02,
-				"level_increase": 5,
-				"max": 5,
+				"level_increase": 0,
+				"max": 3,
 				"min": 3
 			},
 			"id": "blueberry",
@@ -133,6 +133,28 @@
 			]
 		},
 		{
+			"buy": 0,
+			"harvest": {},
+			"id": "cactus_fruit",
+			"index": 802,
+			"name": "Cactus Fruit",
+			"regrow": 3,
+			"seasons": [
+				"spring",
+				"summer",
+				"fall",
+				"winter"
+			],
+			"sell": 75,
+			"stages": [
+				2,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
 			"buy": 80,
 			"harvest": {},
 			"id": "cauliflower",
@@ -154,8 +176,8 @@
 			"buy": 30,
 			"harvest": {
 				"extra_chance": 0.02,
-				"level_increase": 10,
-				"max": 6,
+				"level_increase": 0,
+				"max": 4,
 				"min": 4
 			},
 			"id": "coffee_bean",
@@ -178,12 +200,7 @@
 		},
 		{
 			"buy": 150,
-			"harvest": {
-				"extra_chance": 0.0,
-				"level_increase": 5,
-				"max": 2,
-				"min": 1
-			},
+			"harvest": {},
 			"id": "corn",
 			"index": 487,
 			"name": "Corn",
@@ -205,8 +222,8 @@
 			"buy": 240,
 			"harvest": {
 				"extra_chance": 0.1,
-				"level_increase": 5,
-				"max": 6,
+				"level_increase": 0,
+				"max": 2,
 				"min": 2
 			},
 			"id": "cranberries",
@@ -229,8 +246,8 @@
 			"buy": 20,
 			"harvest": {
 				"extra_chance": 0.002,
-				"level_increase": 10,
-				"max": 2,
+				"level_increase": 0,
+				"max": 1,
 				"min": 1
 			},
 			"id": "eggplant",
@@ -267,6 +284,32 @@
 			]
 		},
 		{
+			"buy": 10,
+			"harvest": {
+				"extra_chance": 0.01,
+				"level_increase": 0,
+				"max": 7,
+				"min": 4
+			},
+			"id": "fiber",
+			"index": 885,
+			"name": "Fiber",
+			"scythe": true,
+			"seasons": [
+				"spring",
+				"summer",
+				"fall",
+				"winter"
+			],
+			"sell": 1,
+			"stages": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
 			"buy": 40,
 			"harvest": {},
 			"id": "garlic",
@@ -285,12 +328,7 @@
 		},
 		{
 			"buy": 60,
-			"harvest": {
-				"extra_chance": 0.0,
-				"level_increase": 6,
-				"max": 2,
-				"min": 1
-			},
+			"harvest": {},
 			"id": "grape",
 			"index": 301,
 			"name": "Grape",
@@ -310,12 +348,7 @@
 		},
 		{
 			"buy": 60,
-			"harvest": {
-				"extra_chance": 0.0,
-				"level_increase": 6,
-				"max": 2,
-				"min": 1
-			},
+			"harvest": {},
 			"id": "green_bean",
 			"index": 473,
 			"name": "Green Bean",
@@ -335,12 +368,7 @@
 		},
 		{
 			"buy": 60,
-			"harvest": {
-				"extra_chance": 0.0,
-				"level_increase": 6,
-				"max": 2,
-				"min": 1
-			},
+			"harvest": {},
 			"id": "hops",
 			"index": 302,
 			"name": "Hops",
@@ -362,7 +390,7 @@
 			"buy": 40,
 			"harvest": {
 				"extra_chance": 0.03,
-				"level_increase": 5,
+				"level_increase": 0,
 				"max": 1,
 				"min": 1
 			},
@@ -436,6 +464,25 @@
 			]
 		},
 		{
+			"buy": 480,
+			"harvest": {},
+			"id": "pineapple",
+			"index": 833,
+			"name": "Pineapple",
+			"regrow": 7,
+			"seasons": [
+				"summer"
+			],
+			"sell": 300,
+			"stages": [
+				1,
+				3,
+				3,
+				4,
+				3
+			]
+		},
+		{
 			"buy": 100,
 			"harvest": {},
 			"id": "poppy",
@@ -456,8 +503,8 @@
 			"buy": 50,
 			"harvest": {
 				"extra_chance": 0.2,
-				"level_increase": 8,
-				"max": 2,
+				"level_increase": 0,
+				"max": 1,
 				"min": 1
 			},
 			"id": "potato",
@@ -491,6 +538,26 @@
 				3,
 				4,
 				3
+			]
+		},
+		{
+			"buy": 2,
+			"harvest": {},
+			"id": "qi_fruit",
+			"index": 890,
+			"name": "Qi Fruit",
+			"seasons": [
+				"spring",
+				"summer",
+				"fall",
+				"winter"
+			],
+			"sell": 1,
+			"stages": [
+				1,
+				1,
+				1,
+				1
 			]
 		},
 		{
@@ -568,7 +635,7 @@
 			"buy": 100,
 			"harvest": {
 				"extra_chance": 0.02,
-				"level_increase": 5,
+				"level_increase": 0,
 				"max": 1,
 				"min": 1
 			},
@@ -643,10 +710,27 @@
 			]
 		},
 		{
+			"buy": 40,
+			"harvest": {},
+			"id": "taro_root",
+			"index": 831,
+			"name": "Taro Root",
+			"seasons": [
+				"summer"
+			],
+			"sell": 100,
+			"stages": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
 			"buy": 50,
 			"harvest": {
 				"extra_chance": 0.05,
-				"level_increase": 6,
+				"level_increase": 0,
 				"max": 1,
 				"min": 1
 			},
@@ -681,6 +765,29 @@
 				1,
 				2,
 				2
+			]
+		},
+		{
+			"buy": 40,
+			"harvest": {
+				"extra_chance": 0.1,
+				"level_increase": 10,
+				"max": 1,
+				"min": 1
+			},
+			"id": "unmilled_rice",
+			"index": 273,
+			"name": "Unmilled Rice",
+			"scythe": true,
+			"seasons": [
+				"spring"
+			],
+			"sell": 30,
+			"stages": [
+				1,
+				2,
+				2,
+				3
 			]
 		},
 		{
