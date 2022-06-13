@@ -133,7 +133,7 @@
 			]
 		},
 		{
-			"buy": 0,
+			"buy": 150,
 			"harvest": {},
 			"id": "cactus_fruit",
 			"index": 802,
@@ -284,7 +284,7 @@
 			]
 		},
 		{
-			"buy": 10,
+			"buy": 0,
 			"harvest": {
 				"extra_chance": 0.01,
 				"level_increase": 0,
@@ -464,7 +464,7 @@
 			]
 		},
 		{
-			"buy": 480,
+			"buy": 0,
 			"harvest": {},
 			"id": "pineapple",
 			"index": 833,
@@ -541,7 +541,7 @@
 			]
 		},
 		{
-			"buy": 2,
+			"buy": 0,
 			"harvest": {},
 			"id": "qi_fruit",
 			"index": 890,
@@ -710,7 +710,7 @@
 			]
 		},
 		{
-			"buy": 40,
+			"buy": 0,
 			"harvest": {},
 			"id": "taro_root",
 			"index": 831,
